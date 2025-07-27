@@ -9,13 +9,12 @@
 
 ### 🧑‍💻 About Me
 
--🔭 Crafting end-to-end full-stack applications with cloud-native architecture using AWS + MERN 
-- 🌱 Learning and applying AWS Cloud | DevOps | Linux | Docker | CI/CD | Kubernetes  
-- ⚙️ Interested in Infrastructure as Code (IaC), Cloud Automation and Monitoring Tools  
-- 🧠 Focused on becoming a Cloud & DevOps Engineer who builds scalable and efficient systems  
-- 📫 Reach me at: pathadesatish0@gmail.com  
-- 🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/satish-pathade)  
-
+- 🔭 Currently building **cloud-native, full-stack web applications** using the **MERN stack** and **AWS Cloud Services**
+- 🌱 Deep-diving into **AWS**, **DevOps practices**, **Linux**, **Docker**, **CI/CD pipelines**, and **Kubernetes**
+- ⚙️ Passionate about **Infrastructure as Code (IaC)**, **cloud automation**, and **real-time monitoring/logging systems**
+- 🚀 Focused on becoming a **Cloud & DevOps Engineer** who delivers **scalable, secure, and production-ready systems**
+- 🧩 Blending full-stack development with cloud engineering to bridge the gap between code and infrastructure
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
