@@ -1,5 +1,5 @@
 <h1 align="center">I'm Satish Pathade</h1>
-<h3 align="center">AWS Cloud & DevOps | MERN Stack Developer | Building Reliable Cloud-Native Applications</h3>
+<h3 align="center">AWS Cloud & DevOps Engineer | Building Reliable, Scalable, and Secure Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satishpathade&label=Profile%20views&color=0e75b6&style=flat" alt="satishpathade" />
@@ -9,11 +9,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building **cloud-native applications** with **AWS Cloud Services** and modern web technologies  
-- 🌱 Exploring **AWS**, **DevOps practices**, **Linux**, **Docker**, **CI/CD pipelines**, and **Kubernetes**  
-- ⚙️ Passionate about **Infrastructure as Code (IaC)**, **automation**, and **real-time monitoring/logging**  
-- 🚀 Working towards becoming a **Cloud & DevOps Engineer** who delivers **scalable, secure, production-ready systems**  
-- 🧩 Combining **development skills** with **cloud engineering** to bridge the gap between **code and infrastructure**  
+- 🔭 Building **cloud solutions** with **AWS Cloud Services**, infrastructure automation, and CI/CD pipelines 
+- 🌱 Expanding expertise in **AWS**, **DevOps workflows**, **Linux administration**, **Docker**, and **Kubernetes**  
+- ⚙️ Driven by **Infrastructure as Code (IaC)**, **automation**, and **scalable system architecture**  
+- 🚀 Dedicated to delivering **high-performance, secure, and fault-tolerant cloud environments**  
+- 🧩 Connecting **development processes** with **cloud operations** to streamline deployment and delivery  
   
 ---
 
@@ -40,12 +40,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-
-#### 💻 MERN Stack
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
 
 #### 🧰 Tools & Platforms
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
