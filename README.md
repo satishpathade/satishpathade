@@ -74,7 +74,7 @@ Real-world projects focused on CI/CD, cloud automation, and scalable deployments
 
 ---
 
-### Connect With Me
+### Connect
 
 - 🌐 LinkedIn: **https://www.linkedin.com/in/satish-pathade**  
 - 📧 Email: **pathadesatish0@gmail.com**
