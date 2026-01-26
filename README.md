@@ -51,9 +51,9 @@ My work includes designing CI/CD pipelines, managing cloud resources, and suppor
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### Tools & Platforms
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -74,7 +74,7 @@ Real-world projects focused on CI/CD, cloud automation, and scalable deployments
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 - 🌐 LinkedIn: **https://www.linkedin.com/in/satish-pathade**  
 - 📧 Email: **pathadesatish0@gmail.com**
