@@ -60,8 +60,8 @@ My work includes designing CI/CD pipelines, managing cloud resources, and suppor
 ### Featured Projects
 Real-world projects focused on CI/CD, cloud automation, and scalable deployments.
 
-- **[CloudVault](https://github.com/satishpathade/CloudVault)**  
-  CloudVault – Secure File Upload & Storage System (AWS)
+- **[IAC 3-Tier AWS Web Application](https://github.com/satishpathade/iac-cloud-native-devops-platform)**  
+  cloud-native web application platform built on AWS using modern DevOps practices
 
 - **[Java-App-CICD](https://github.com/satishpathade/java-app-CICD)**
   Java Application CI/CD Pipeline using Jenkins and Tomcat
