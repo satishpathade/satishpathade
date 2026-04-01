@@ -70,12 +70,6 @@ Real-world projects focused on CI/CD, cloud automation, and scalable deployments
 
 - **[CSV-data-pipeline](https://github.com/satishpathade/csv-data-pipeline-project)**  
   A serverless AWS data pipeline that processes and cleans CSV files
-
-  ---
-  ## Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satishpathade&theme=tokyo-night)
-
 ---
 
 ### Connect
