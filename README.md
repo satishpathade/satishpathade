@@ -1,5 +1,5 @@
 <h1 align="center">Satish Pathade</h1>
-<h3 align="center">Cloud & DevOps Engineer focused on CI/CD automation and scalable cloud systems</h3>
+<h3 align="center">AWS Cloud & DevOps Engineer focused on CI/CD automation and scalable cloud systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satishpathade&label=Profile%20views&color=0e75b6&style=flat" alt="satishpathade" />
@@ -9,16 +9,15 @@
 
 ### About Me
 
-I am a DevOps Engineer with experience in cloud infrastructure and deployment automation. I focus on building reliable, secure, and scalable systems that support smooth application delivery.
+I am a Cloud and DevOps Engineer focused on building reliable and scalable cloud infrastructure. I work with modern DevOps tools to automate deployments, manage cloud environments, and improve application delivery.
 
-My work includes designing CI/CD pipelines, managing cloud resources, and supporting modern application deployments using AWS.
-
-- CI/CD automation using Jenkins
-- Cloud infrastructure management with AWS
 - Version control with Git and GitHub
+- Cloud infrastructure management using AWS
+- CI/CD automation using Jenkins
+- Infrastructure as Code using Terraform
 - Containerization and orchestration using Docker and Kubernetes
-- System administration with Linux
-- Infrastructure as Code and secure deployment practices
+- Monitoring and observability using Prometheus and Grafana
+- Secure and scalable cloud deployment practices
 ---
 
 ### Tech Stack & Tools
@@ -71,6 +70,11 @@ Real-world projects focused on CI/CD, cloud automation, and scalable deployments
 
 - **[CSV-data-pipeline](https://github.com/satishpathade/csv-data-pipeline-project)**  
   A serverless AWS data pipeline that processes and cleans CSV files
+
+  ---
+  ## Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satishpathade&theme=tokyo-night)
 
 ---
 
