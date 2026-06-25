@@ -38,17 +38,17 @@ I am a Cloud and DevOps Engineer focused on building reliable and scalable cloud
 
 #### DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-1A1A1A?style=for-the-badge\&logo=ansible\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Docker%20Compose](https://img.shields.io/badge/Docker%20Compose-384D54?style=for-the-badge\&logo=docker\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-5F4BFF?style=for-the-badge\&logo=trivy\&logoColor=white)
-![Docker%20Hub](https://img.shields.io/badge/Docker%20Hub-1D63ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-FF8C00?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge\&logo=trivy\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1A1A?style=for-the-badge\&logo=ansible\&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-384D54?style=for-the-badge\&logo=docker\&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-1D63ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 #### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
