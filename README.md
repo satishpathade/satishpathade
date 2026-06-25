@@ -61,16 +61,16 @@ I am a Cloud and DevOps Engineer focused on building reliable and scalable cloud
 Real-world projects focused on CI/CD, cloud automation, and scalable deployments.
 
 - **[CloudVault - AWS 3tier DevSecOps Pipeline](https://github.com/satishpathade/cloudvault-aws-3tier-file-storage)**  
-  cloud-native web application platform built on AWS using modern DevOps practices
+  A cloud-native AWS 3-tier web application platform built using modern DevSecOps practices with automated infrastructure provisioning, CI/CD, and containerized deployments.
 
-- **[Java-App-CICD](https://github.com/satishpathade/java-app-CICD)**
+- **[LogStream - AI powered serverless log analysis](https://github.com/satishpathade/logstream-aws-serverless-log-analysis)**  
+  A serverless AWS application that automates log ingestion, AI-powered analysis, and visualization for faster troubleshooting and operational insights.
+
+  - **[Java-App-CICD](https://github.com/satishpathade/java-app-CICD)**
   Java Application CI/CD Pipeline using Jenkins and Tomcat
 
 - **[Python-app-freestyle](https://github.com/satishpathade/python-app-freestyle)**  
   Python Application Deployment with Jenkins Freestyle Pipeline
-
-- **[CSV-data-pipeline](https://github.com/satishpathade/csv-data-pipeline-project)**  
-  A serverless AWS data pipeline that processes and cleans CSV files
 ---
 
 ### Connect
